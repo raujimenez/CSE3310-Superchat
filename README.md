@@ -12,9 +12,9 @@ Hi! This program is a command line based chat program. This was built for Softwa
 
 Ensure that you have many terminal windows open
 
-To Compile: `make`
-To Start server: `./chat_server <port>`
-To Start client: `./chat_client <ip address> <port>`
+To Compile: `make` \
+To Start server: `./chat_server <port>` \
+To Start client: `./chat_client <ip address> <port>` \
 
 ##  Basic Maneuvering
 
