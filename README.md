@@ -1,6 +1,6 @@
 # Welcome to Superchat
 
-Hi! This program is a command line based chat program. This was built for Software Engineering class (CSE 3310). Right now we currently have 
+Hi! This program is a command line based chat program. This was built for Software Engineering class (CSE 3310).
 
 # Before you compile
 
