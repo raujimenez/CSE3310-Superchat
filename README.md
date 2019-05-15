@@ -14,7 +14,7 @@ Ensure that you have many terminal windows open
 
 To Compile: `make` \
 To Start server: `./chat_server <port>` \
-To Start client: `./chat_client <ip address> <port>` \
+To Start client: `./chat_client <ip address> <port>` 
 
 ##  Basic Maneuvering
 
